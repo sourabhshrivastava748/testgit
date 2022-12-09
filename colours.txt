@@ -1,4 +1,6 @@
 Red,
 Green,
 Blue,
-Yellow
+Yellow,
+pink,
+violet
