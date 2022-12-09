@@ -8,4 +8,6 @@ hot pink,
 dark pink
 violet,
 abcd,
-efgh
+efgh,
+rrrrrrrrrr,
+ssssssssss
