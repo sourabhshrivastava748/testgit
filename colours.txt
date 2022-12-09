@@ -8,4 +8,6 @@ hot pink,
 dark pink
 violet,
 abcd,
-efgh
+efgh,
+col1,
+col2s
