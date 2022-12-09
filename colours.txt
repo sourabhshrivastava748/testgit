@@ -3,4 +3,6 @@ Green,
 Blue,
 Yellow,
 pink,
-violet
+violet,
+hot pink,
+dark pink
