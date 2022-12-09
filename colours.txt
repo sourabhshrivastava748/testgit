@@ -6,3 +6,6 @@ pink,
 violet,
 hot pink,
 dark pink
+violet,
+abcd,
+efgh
